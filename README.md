@@ -14,19 +14,6 @@ Supported Hash Types
     SHA256
     SHA512
 
-Installation
-
-    Clone the repository:
-
-git clone https://github.com/yourusername/hash-reverser-generator.git
-cd hash-reverser-generator
-
-Ensure you have Python 3.x installed. If not, download and install it from python.org.
-
-Install the required dependencies:
-
-    pip install -r requirements.txt
-
 Usage
 Reverse Hash Mode
 
